@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Guide thr gacha game-1.0";
 const contentToCache = [
-    "Build/Guide the gacha game.loader.js",
-    "Build/Guide the gacha game.framework.js",
-    "Build/Guide the gacha game.data",
-    "Build/Guide the gacha game.wasm",
+    "Build/Guide-the-gacha-game.loader.js",
+    "Build/Guide-the-gacha-game.framework.js",
+    "Build/Guide-the-gacha-game.data",
+    "Build/Guide-the-gacha-game.wasm",
     "TemplateData/style.css"
 
 ];
